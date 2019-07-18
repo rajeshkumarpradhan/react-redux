@@ -11,7 +11,7 @@ class GroupData extends Component {
     render() {
         return (
              <div className="container">
-                <h2>Basic Panel</h2>
+                <h2 className="panel_card">Basic Panel</h2>
                 <div className="panel panel-default">
                     <div className="panel-body">
                         <ul className="list-group">
