@@ -12,7 +12,6 @@ class GroupData extends Component {
         this.props.fetchNewData('http://demo2250061.mockable.io/country.json');
     }
     setValues =()=>{
-
     }
     render() {
         const options = [
